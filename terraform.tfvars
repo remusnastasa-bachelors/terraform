@@ -1,2 +1,2 @@
-project_id = "bachelors-360813"
+project_id = "bachelors-presentation"
 region     = "europe-west2"
